@@ -1,0 +1,5 @@
+libllhttp.pc
+/build
+/.vs
+/.vscode
+/cmake-build-*
